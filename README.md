@@ -1,2 +1,2 @@
 # qrcodesorteado.github.io
-qrpremiado turno A
+QRPREMIADO/TURNO A/GANHADOR
